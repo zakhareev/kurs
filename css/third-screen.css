@@ -1,0 +1,103 @@
+.third-screen {
+    position: relative;
+    width: 933px;
+    height: 672px;
+    top: -50px;
+    left: 301px;
+}
+
+.zag3 {
+    width: 449px;
+    height: 124px;
+    margin-left: 160px;
+    font-family: "Gotham pro Bold";
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 62px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.GP1 {
+    position: absolute;
+    width: 84px;
+    height: 84px;
+    top: 200px;
+}
+
+.text4 {
+    position: absolute;
+    width: 412px;
+    height: 97px;
+    top: 309px;
+    font-family: "Gotham Pro";
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 34px;
+    text-align: left;
+    color: #FFFFFF;     
+}
+
+.GP2 {
+    position: absolute;
+    width: 84px;
+    height: 84px;
+    top: 200px;
+    left: 528px;
+}
+
+.text5 {
+    position: absolute;
+    width: 412px;
+    height: 75px;
+    top: 309px;
+    left: 528px;  
+    font-family: "Gotham Pro";
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 34px;
+    text-align: left;
+    color: #FFFFFF;     
+}
+
+.GP3 {
+    position: absolute;
+    width: 84px;
+    height: 84px;
+    top: 476px;   
+}
+
+.text6 {
+    position: absolute;
+    width: 412px;
+    height: 75px;
+    top: 585px;
+    font-family: "Gotham Pro";
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 34px;
+    text-align: left;
+    color: #FFFFFF;     
+}
+
+.GP4 {
+    position: absolute;
+    width: 84px;
+    height: 84px;
+    top: 476px;
+    left: 528px;   
+}
+
+.text7 {
+    position: absolute;
+    width: 349px;
+    height: 75px;
+    top: 585px;
+    left: 528px;
+    font-family: "Gotham Pro";
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 34px;
+    text-align: left;
+    color: #FFFFFF;     
+}

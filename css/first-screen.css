@@ -1,0 +1,98 @@
+.main-screen {
+    width: 1445px;
+    height: 5600px;
+    margin-top: -22px;
+    background-color: #252237;
+}
+
+.first-screen {
+    width: 1445px;
+    height: 800px;
+}
+
+.fon-1 {
+    position: absolute;
+    width: 1445px;
+    height: 710px;
+}
+
+.IQMO {
+    position: relative;
+    color: #FFFFFF;
+    font-family: "Gotham pro Bold";
+    width: 97px;
+    height: 34px;
+    padding-top: 50px;
+    padding-left: 50px;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 34px;
+    letter-spacing: 3px;
+}
+
+.zag1 {
+    position: relative;
+    color: #FFFFFF;
+    font-family: "Gotham pro Bold";
+    width: 352px;
+    height: 133px;
+    top: 20px;
+    left: 199px;
+    font-size: 70px;
+    font-weight: 700;
+    line-height: 65px;
+    letter-spacing: -2.5px; 
+}
+
+.text1 {
+    position: relative;
+    color: #FFFFFF;
+    font-family: "Montserrat";
+    width: 433px;
+    height: 102px;
+    top: -10px;
+    left: 199px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24.38px;
+}
+
+.zapis {
+    position: relative;
+    width: 367.95px;
+    height: 80.74px;
+    top: 30px;
+    left: 199.44px;
+    border-radius: 10px 10px 10px 10px;    
+    background: #E2521D;
+    box-shadow: 0px 0px 55px 0px #CA005082;
+    font-size: 9px;
+    font-weight: 900;
+    line-height: 75px;
+    letter-spacing: 4px;
+    text-align: center;
+    font-family: "HelveticaNeueCyr";
+    color: #FFFFFF; 
+}
+
+.light1 {
+    position: relative;
+    width: 288.6px;
+    height: 288.6px;
+    top: -380px;
+    left: 1155px;
+    gap: 0px;
+    opacity: 0px;
+    background: linear-gradient(-100deg, #AE4C0F -5000%, rgba(202, 0, 80, 0) 100%);
+}
+
+.light2 {
+    position: relative;
+    width: 111.41px;
+    height: 111.41px;
+    top: -710px;
+    left: 826.1px;
+    gap: 0px;
+    opacity: 0px;
+    background: linear-gradient(100deg, #B5500D -5000%, rgba(202, 0, 80, 0) 100%);    
+}

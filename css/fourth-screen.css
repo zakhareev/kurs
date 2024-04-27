@@ -1,0 +1,128 @@
+.fourth-screen {
+    position: relative;
+    width: 1021px;
+    height: 808px;
+    top: -2000px;  
+}
+
+.zag4 {
+    position: absolute;
+    width: 314px;
+    height: 124px;
+    top: 2000px;
+    left: 564px;
+    font-family: "Gotham Pro Bold";
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 62px;
+    text-align: center;
+    color: #FFFFFF;    
+}
+
+.tab1 {
+    position: absolute;
+    width: 1021px;
+    height: 100px;
+    top: 2267px;
+    left: 210px;
+    background: #E2521D;
+}
+
+.zag5 {
+    width: 100px;
+    height: 18px;
+    padding-top: 25px;
+    padding-left: 70px; 
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 20px;
+    text-align: left;
+    color: #FFFFFF;
+    white-space: pre;
+    font-family: "Montserrat";
+}
+
+.GP5 {
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    top: 15px;
+    left: 880px;
+}
+
+.text8 {
+    position: absolute;
+    width: 850px;
+    height: 204px;
+    top: 2380px;
+    left: 288px;
+    font-family: "Gotham Pro";
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 34px;
+    text-align: left;
+    color: #8997AB;
+}
+
+.tab2 {
+    position: absolute;
+    width: 1021px;
+    height: 100px;
+    top: 2656px;
+    left: 210px;
+    background: #0E1B28;
+}
+
+.zag6 {
+    width: 200px;
+    height: 36px;
+    padding-top: 25px;
+    padding-left: 70px; 
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 20px;
+    text-align: left;
+    color: #FFFFFF;
+    white-space: pre;
+    font-family: "Montserrat"; 
+}
+
+.GP6 {
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    top: 25px;
+    left: 880px;
+}
+
+.tab3 {
+    position: absolute;
+    width: 1021px;
+    height: 100px;
+    top: 2776px;
+    left: 210px;
+    background: #0E1B28;
+}
+
+.zag7 {
+    width: 200px;
+    height: 36px;
+    padding-top: 25px;
+    padding-left: 70px; 
+    font-family: "Montserrat";
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 20px;
+    text-align: left;
+    color: #FFFFFF;
+    white-space: pre; 
+    font-family: "Montserrat";
+}
+
+.GP7 {
+    position: absolute;
+    width: 55px;
+    height:55px;
+    top: 25px;
+    left: 880px;
+}

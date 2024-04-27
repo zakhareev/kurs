@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "Gotham pro";
+    src: url("../font/Gotham pro/gothampro.ttf");
+}
+
+@font-face {
+    font-family: "Gotham pro Bold";
+    src: url("../font/Gotham pro/gothampro_bold.ttf");
+}
+
+@font-face {
+    font-family: "Montserrat";
+    src: url("../font/Montserrat/Montserrat-Regular.ttf");
+}
+
+@font-face {
+    font-family: "HelveticaNeueCyr";
+    src: url("../font/HelveticaNeueCyr/helveticaneuecyr_roman.otf");
+}
+
+@font-face {
+    font-family: "Gilroy Bold";
+    src: url("../font/Gilroy/Gilroy-ExtraBold.otf");
+}
+
+@font-face {
+    font-family: "Gilroy";
+    src: url("../font/Gilroy/Gilroy-Light.otf");
+}
